@@ -6,7 +6,7 @@ Building and interactive dashboard to explore the Belly Button Biodiversity data
 
 ---
 
-[deployment](https://caitlin-hartley.github.io/belly-button-challenge/)
+[GitHub Pages Deployment](https://caitlin-hartley.github.io/belly-button-challenge/)
 ---
 
 ## Metadata

@@ -6,6 +6,9 @@ Building and interactive dashboard to explore the Belly Button Biodiversity data
 
 ---
 
+[deployment](https://caitlin-hartley.github.io/belly-button-challenge/)
+---
+
 ## Metadata
 
 - Use D3 library to read in samples.json from the URL https://static.bc-edx.com/data/dl-1-2/m14/lms/starter/samples.json

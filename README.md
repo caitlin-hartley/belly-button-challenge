@@ -23,33 +23,43 @@ Building and interactive dashboard to explore the Belly Button Biodiversity data
 
 ---
 
-Create a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
+## Bar Chart
 
-Use sample_values as the values for the bar chart.
+- Created a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual
+- Used sample_values as the values for the bar chart
+- Used otu_ids as the labels for the bar chart
+- Used otu_labels as the hovertext for the chart
+- Sorted and reversed data to show greatest to smallest
+- Spliced data to get top 10 OTUs
 
-Use otu_ids as the labels for the bar chart.
+### Code for bar chart:
 
-Use otu_labels as the hovertext for the chart.
+![bar](https://github.com/caitlin-hartley/belly-button-challenge/blob/main/images/bar_code.png)
 
-bar Chart
-Create a bubble chart that displays each sample.
+### Bar Chart:
 
-Use otu_ids for the x values.
+![barch](https://github.com/caitlin-hartley/belly-button-challenge/blob/main/images/bar_chart.png)
 
-Use sample_values for the y values.
+---
 
-Use sample_values for the marker size.
+## Bubble Chart
 
-Use otu_ids for the marker colors.
+- Created a bubble chart that displays each sample
+- Used otu_ids for the x values
+- Used sample_values for the y values
+- Used sample_values for the marker size
+- Used otu_ids for the marker colors
+- Used otu_labels for the text values
 
-Use otu_labels for the text values.
+### Code for Bubble Chart:
 
-Bubble Chart
-Display the sample's metadata, i.e., an individual's demographic information.
+![bubble](https://github.com/caitlin-hartley/belly-button-challenge/blob/main/images/bubble_code.png)
 
-Loop through each key-value pair from the metadata JSON object and create a text string.
+### Bubble Chart:
 
-Append an html tag with that text to the #sample-metadata panel.
+![bubblech](https://github.com/caitlin-hartley/belly-button-challenge/blob/main/images/bubble_chart.png)
+
+
 
 hw
 Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown as follows:

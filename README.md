@@ -59,8 +59,8 @@ Building and interactive dashboard to explore the Belly Button Biodiversity data
 
 ![bubblech](https://github.com/caitlin-hartley/belly-button-challenge/blob/main/images/bubble_chart.png)
 
+---
 
+## Select Data and Update When New ID Selected
 
-hw
-Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown as follows:
-
+![data](https://github.com/caitlin-hartley/belly-button-challenge/blob/main/images/page_load_event_listener.png)

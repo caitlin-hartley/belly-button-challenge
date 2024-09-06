@@ -4,6 +4,8 @@ Building and interactive dashboard to explore the Belly Button Biodiversity data
 
 ![bellybutton](https://github.com/caitlin-hartley/belly-button-challenge/blob/main/images/microbes.jpg)
 
+---
+
 ## Metadata
 
 - Use D3 library to read in samples.json from the URL https://static.bc-edx.com/data/dl-1-2/m14/lms/starter/samples.json
@@ -11,12 +13,15 @@ Building and interactive dashboard to explore the Belly Button Biodiversity data
 - Loop through each key-value pair from the metadata JSON object and create a text string
 - Append an html tag with that text to the #sample-metadata panel
 
-Code for metadata panel: 
+Code for metadata panel:
+
 ![meta](https://github.com/caitlin-hartley/belly-button-challenge/blob/main/images/meta_code.png)
 
 Metadata Panel:
+
 ![panel](https://github.com/caitlin-hartley/belly-button-challenge/blob/main/images/meta_chart.png)
 
+---
 
 Create a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
 

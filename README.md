@@ -13,11 +13,11 @@ Building and interactive dashboard to explore the Belly Button Biodiversity data
 - Loop through each key-value pair from the metadata JSON object and create a text string
 - Append an html tag with that text to the #sample-metadata panel
 
-Code for metadata panel:
+### Code for metadata panel:
 
 ![meta](https://github.com/caitlin-hartley/belly-button-challenge/blob/main/images/meta_code.png)
 
-Metadata Panel:
+### Metadata Panel:
 
 ![panel](https://github.com/caitlin-hartley/belly-button-challenge/blob/main/images/meta_chart.png)
 
